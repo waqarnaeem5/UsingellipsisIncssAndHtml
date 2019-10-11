@@ -1,0 +1,13 @@
+
+.card {
+    height: 416px;
+    width: 280px;
+    display: block;
+    border: 1px solid black;
+  }
+  
+  .ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
